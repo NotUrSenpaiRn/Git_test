@@ -1,2 +1,8 @@
 Doing my best here
 I have no idea what im Doing
+okay so if i understand this 
+its ctrl+s then 
+git add .
+then git commit
+then git push 
+lets check
