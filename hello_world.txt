@@ -6,3 +6,7 @@ git add .
 then git commit
 then git push 
 lets check
+i got it! okay 
+one more 
+time
+lets go 
